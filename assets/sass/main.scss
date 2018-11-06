@@ -283,6 +283,7 @@
 		text-align: right;
 	}
 
+
 /* Container */
 
 	.container {
@@ -460,6 +461,7 @@
 	}
 
 	header {
+
 		p {
 			color: _palette(fg-light);
 			letter-spacing: 0.05em;
@@ -485,11 +487,13 @@
 			margin-top: (_size(element-margin) * -0.3);
 		}
 
+
 		&.major {
 			text-align: center;
 
 			h1, h2, h3, h4, h5, h6 {
 				position: relative;
+
 
 				&:after {
 					background: _palette(border);
@@ -499,6 +503,7 @@
 					margin: 0.75em auto 0 auto;
 					position: relative;
 					width: 4em;
+					
 				}
 			}
 
