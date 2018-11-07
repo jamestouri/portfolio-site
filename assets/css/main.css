@@ -2554,7 +2554,7 @@ input, select, textarea {
 		border-radius: 0;
 		border: 0;
 		box-shadow: inset 0 0 0 2px #dddddd;
-		color: #61686b !important;
+		color: #61686b;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 700;
@@ -3122,10 +3122,13 @@ i {
 	margin-bottom: 10px;
 	font-size: 50px;
 }
+
 .resume-button {
-	background-color: #8cd1a8;
-	border-radius: 1px;
+	background-color: #61686b;
+	color: white;
+
 }
+
 
 .redux-image {
 	background-image: url(https://cdn-images-1.medium.com/max/1200/0*U2DmhXYumRyXH6X1.png);
