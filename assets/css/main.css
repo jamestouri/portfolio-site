@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+/* @import url("font-awesome.min.css"); */
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,800");
 
 /*
@@ -3117,3 +3117,16 @@ input, select, textarea {
 				}
 
 	}
+
+i {
+	margin-bottom: 10px;
+	font-size: 50px;
+}
+.resume-button {
+	background-color: #8cd1a8;
+	border-radius: 1px;
+}
+
+.redux-image {
+	background-image: url(https://cdn-images-1.medium.com/max/1200/0*U2DmhXYumRyXH6X1.png);
+}

@@ -15,6 +15,7 @@
 
 // Breakpoints.
 
+
 	@include breakpoints((
 		large:   ( 981px,  1680px ),
 		medium:  ( 737px,  980px  ),
@@ -503,7 +504,7 @@
 					margin: 0.75em auto 0 auto;
 					position: relative;
 					width: 4em;
-					
+
 				}
 			}
 
