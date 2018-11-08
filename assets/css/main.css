@@ -3129,6 +3129,14 @@ i {
 
 }
 
+img {
+	border: 1px solid transparent;
+	border-radius: 40%;
+	height: 220px;
+	width: 145px;
+	margin-bottom: 10px;
+}
+
 
 .redux-image {
 	background-image: url(https://cdn-images-1.medium.com/max/1200/0*U2DmhXYumRyXH6X1.png);
